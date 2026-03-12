@@ -1,119 +1,104 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff94,100:0f0f0f&height=200&section=header&text=raidx&fontSize=80&fontColor=00ff94&fontAlignY=38&desc=backend%20dev%20%C3%97%20agentic%20ai%20engineer&descAlignY=60&descColor=ffffff&animation=fadeIn" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a0d,60:003320,100:00ff94&height=250&section=header&text=raidx&fontSize=90&fontColor=00ff94&fontAlignY=45&desc=⚡%20backend%20engineer%20·%20agentic%20ai%20·%20builder%20⚡&descSize=16&descAlignY=68&descColor=aaffcc&animation=twinkling&stroke=00ff94&strokeWidth=1"/>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=building+systems+that+think+%F0%9F%A7%A0;autonomous+agents+%26+backend+infra+%E2%9A%99%EF%B8%8F;python+enjoyer+%F0%9F%90%8D;making+servers+go+brrr+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&multiline=false&width=550&height=40&lines=%3E+initializing+raidx.exe...+%E2%9C%93;%3E+loading+agent+pipelines...+%E2%9C%93;%3E+spinning+up+backend+services...+%E2%9C%93;%3E+systems+online.+let%27s+build+something.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-```
-  ██████╗  █████╗ ██╗██████╗ ██╗  ██╗
-  ██╔══██╗██╔══██╗██║██╔══██╗╚██╗██╔╝
-  ██████╔╝███████║██║██║  ██║ ╚███╔╝ 
-  ██╔══██╗██╔══██║██║██║  ██║ ██╔██╗ 
-  ██║  ██║██║  ██║██║██████╔╝██╔╝ ██╗
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff94?style=flat-square&labelColor=0d1117&color=00ff94&logo=statuspage&logoColor=00ff94"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-00ff94?style=flat-square&labelColor=0d1117&color=00ff94"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STACK-PYTHON%20%7C%20JAVA-00ff94?style=flat-square&labelColor=0d1117&color=00ff94"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=raidx545&color=00ff94&style=flat-square&label=VISITORS&labelColor=0d1117"/>
+</div>
+
+<br/>
 
 ---
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### ◈ WHO AM I ◈
-
-</div>
+### `$ whoami`
 
 ```python
+@dataclass
 class Raidx:
-    
-    name        =  "raidx"
-    role        =  ["Backend Engineer", "Agentic AI Developer"]
-    stack       =  ["Python 🐍", "Java ☕"]
-    obsessed_with = [
-        "autonomous agent pipelines 🤖",
-        "tool-use & LLM orchestration 🔧",
-        "clean backend architecture ⚙️",
-        "systems that run themselves 🚀"
-    ]
-    current_vibe = "teaching machines to do my job better than me"
-
-    def __init__(self):
-        self.coffee = float('inf')
-        self.bugs_fixed_today = "yes"
+  name    : str = "raidx"
+  base    : str = "India 🇮🇳"
+  roles   : list = field(default_factory=lambda: [
+    "Backend Engineer  ⚙️",
+    "Agentic AI Dev    🤖",
+  ])
+  langs   : list = field(default_factory=lambda: [
+    "Python  🐍",
+    "Java    ☕",
+  ])
+  now     : str = (
+    "building agents that "
+    "do the thinking 🧠"
+  )
+  coffee  : float = float('inf')
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### `$ cat interests.txt`
 
-### ◈ STACK ◈
+```
+╔═══════════════════════════════════╗
+║  🤖  Agentic AI Systems           ║
+║  🔗  Multi-Agent Orchestration    ║
+║  ⚙️  Backend Architecture         ║
+║  🛠️  LLM Tool-Use & RAG           ║
+║  🐍  Python Internals             ║
+║  ☕  JVM & Spring Ecosystem        ║
+║  📡  Distributed Systems          ║
+║  🔄  Automation Everything        ║
+╚═══════════════════════════════════╝
+```
 
-</div>
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff94)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff94)
-
-**AI / Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff94)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff94)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff94)
-
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff94)
-![Spring](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring-boot&logoColor=00ff94)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff94)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff94)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00ff94)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### ◈ GITHUB STATS ◈
+### `$ ls ./stack`
 
-</div>
+<br/>
 
-<div align="center">
+**── LANGUAGES ──**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raidx545&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidx545&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&text_color=ffffff"/>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark&perline=6"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**── AI & AGENTS ──**
 
-<img src="https://streak-stats.demolab.com?user=raidx545&theme=dark&hide_border=true&background=0d1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff94&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff94"/>
+<img src="https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=00ff94"/>
+<img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff94"/>
+<img src="https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logo=robot&logoColor=00ff94"/>
 
-</div>
+<br/><br/>
 
----
+**── BACKEND & INFRA ──**
 
-<div align="center">
-
-### ◈ CURRENTLY ◈
-
-</div>
-
-<div align="center">
-
-| status | what |
-|--------|------|
-| 🔭 building | autonomous multi-agent systems |
-| 🧠 exploring | LLM tool-use & agent orchestration |
-| ⚙️ experimenting | AI-powered backend services |
-| 📖 reading | papers on agentic reasoning |
+<img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,redis,kafka&theme=dark&perline=8"/>
 
 </div>
 
@@ -121,10 +106,51 @@ class Raidx:
 
 <div align="center">
 
-### ◈ FIND ME ◈
+### `$ git log --stats`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff94)](https://linkedin.com/in/raj-porwal-329493216)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff94)](https://twitter.com/raaz_porwal)
+<br/>
+
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=raidx545&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&ring_color=00ff94&include_all_commits=true&count_private=true&custom_title=raidx%27s+stats"/>
+&nbsp;&nbsp;
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidx545&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff94&text_color=c9d1d9&custom_title=top+languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=raidx545&hide_border=true&background=0d1117&ring=00ff94&fire=00dd77&currStreakLabel=00ff94&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=555555&stroke=00ff9420"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `$ tail -f activity.log`
+
+<br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=raidx545&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&area_color=003320&hide_border=true&custom_title=contribution+graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `$ ping raidx`
+
+<br/>
+
+<a href="https://linkedin.com/in/raj-porwal-329493216">
+  <img src="https://img.shields.io/badge/─────%20LinkedIn%20─────-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff94&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/raaz_porwal">
+  <img src="https://img.shields.io/badge/─────%20Twitter%20──────-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff94&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/raidx545">
+  <img src="https://img.shields.io/badge/────%20GitHub%20────────-0d1117?style=for-the-badge&logo=github&logoColor=00ff94&labelColor=0d1117"/>
+</a>
 
 </div>
 
@@ -133,16 +159,23 @@ class Raidx:
 <div align="center">
 
 ```python
-while alive:
-    eat()
-    sleep()
-    code()
-    deploy_agents()
-    repeat()
+# ─────────────────────────────────────────
+#   the loop that matters
+# ─────────────────────────────────────────
+
+while True:
+    observe()    # 👁️  read the world
+    think()      # 🧠  reason & plan
+    act()        # ⚡  build & deploy
+    learn()      # 🔄  iterate forever
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff94,100:0f0f0f&height=100&section=footer"/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=raidx545&color=00ff94&style=flat-square&label=visitors)
+> *"The best backend is the one users never think about."*
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:00ff94&height=120&section=footer&reversal=false"/>
