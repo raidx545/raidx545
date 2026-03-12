@@ -1,59 +1,114 @@
-# <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0a0804&height=250&section=header&text=RAJ%20PORWAL&fontSize=85&fontAlignY=45&fontColor=f0ebe0" />
-</p>
+<!-- Header Banner -->
+<div align="center">
 
-<p align="center">
-  <b>VOL. 01 • ISSUE 2026 • CS EDITION</b><br>
-  <i>Agentic AI Development • Full Stack • Java</i><br>
-  📍 Ghaziabad, Uttar Pradesh
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║   ⚡  BACKEND DEV  ×  AGENTIC AI ENGINEER  ×  BUILDER  ⚡   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+# Hey, I'm [Your Name] 👾
 
-### 01. EDUCATION 🎓
-| Status | Degree | Institution |
-| :--- | :--- | :--- |
-| **PURSUING** | **B.Tech Computer Science** | ABES Engineering College |
-| COMPLETED | 12th Standard | Jyotri Academy |
-| COMPLETED | 10th Standard | Jyotri Academy |
+> *I build things that think — and make servers go brrr.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Backend+Dev+%F0%9F%94%A7;Agentic+AI+Engineer+%F0%9F%A4%96;Python+%26+JVM+Enjoyer+%E2%98%95;Building+the+future%2C+one+agent+at+a+time)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 02. PROFICIENCY MATRIX ⚡
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic_AI-92%25-e8470a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Integration-90%25-0a2eff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Systems-88%25-0a0804?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full_Stack-85%25-e8470a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java_Dev-80%25-0a2eff?style=for-the-badge" />
-</p>
+## 🤖 About Me
+
+```python
+class Me:
+    name       = "Your Name"
+    role       = ["Backend Dev", "Agentic AI Engineer"]
+    languages  = ["Python 🐍", "Java ☕", "Kotlin 🎯"]
+    interests  = ["LLM Agents", "Distributed Systems", "Automation"]
+    current    = "Building AI agents that actually do stuff"
+    motto      = "If it can be automated, it should be."
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something cool 🚀")
+```
 
 ---
 
-### 03. SELECTED WORK 🛠️
+## 🛠️ Tech Stack
 
-| Project | Description | Tags |
-| :--- | :--- | :--- |
-| **01. CampusAI** | RAG-based assistant for institutional documents. | `RAG` `Agentic AI` |
-| **02. CI/CD Healer** | AI Agent that auto-detects and patches pipeline bugs. | `DevOps` `AI Agent` |
-| **03. Home Automation** | LLM + ESP32 controlling physical devices in real-time. | `IoT` `LLM` |
-| **04. YOLO Vision** | Real-time computer vision system using YOLO architecture. | `CV` `ML` |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### AI / Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 04. RECOGNITION 🏆
-> **10+ NATIONAL LEVEL HACKATHONS**
-> 
-> "Consistently competing and shipping innovative solutions under extreme pressure—turning ideas into working products within 24 to 48 hours."
+## 🧠 What I'm Into
+
+```
+🤖  Agentic AI      — multi-agent systems, tool-use, autonomous pipelines
+⚙️  Backend Dev     — REST APIs, microservices, clean architecture
+🔄  Automation      — if I do it twice, I automate it
+☕  JVM Stuff        — love a good Kotlin coroutine
+🐍  Python          — where half my brain lives
+```
 
 ---
 
-### CONTACT ✉️
-<p align="left">
-  <a href="mailto:raazporwal6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RAIDX"><img src="https://img.shields.io/badge/RAIDX-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+## 📊 GitHub Stats
 
-<p align="right">
-  <i>RAJ PORWAL — 2026</i>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🚀 Currently
+
+- 🔭 Working on **autonomous AI agent pipelines**
+- 🌱 Exploring **multi-agent frameworks & tool orchestration**
+- 🛠️ Experimenting with **LLM-powered backend services**
+- 💬 Ask me about **Python, Kotlin, Java, or AI agents**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=vercel&logoColor=black)](https://yoursite.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```kotlin
+fun main() {
+    println("Thanks for visiting! Star something if you like it ⭐")
+}
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff94&style=flat-square)
+
+</div>
