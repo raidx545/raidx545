@@ -1,101 +1,79 @@
-<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff94,100:0f0f0f&height=200&section=header&text=raidx&fontSize=80&fontColor=00ff94&fontAlignY=38&desc=backend%20dev%20%C3%97%20agentic%20ai%20engineer&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+</div>
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   ⚡  BACKEND DEV  ×  AGENTIC AI ENGINEER  ×  BUILDER  ⚡   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-# Hey, I'm RAIDX 👾
-
-> *I build things that think — and make servers go brrr.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Backend+Dev+%F0%9F%94%A7;Agentic+AI+Engineer+%F0%9F%A4%96;Python+%26+JVM+Enjoyer+%E2%98%95;Building+the+future%2C+one+agent+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=building+systems+that+think+%F0%9F%A7%A0;autonomous+agents+%26+backend+infra+%E2%9A%99%EF%B8%8F;python+enjoyer+%F0%9F%90%8D;making+servers+go+brrr+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+```
+  ██████╗  █████╗ ██╗██████╗ ██╗  ██╗
+  ██╔══██╗██╔══██╗██║██╔══██╗╚██╗██╔╝
+  ██████╔╝███████║██║██║  ██║ ╚███╔╝ 
+  ██╔══██╗██╔══██║██║██║  ██║ ██╔██╗ 
+  ██║  ██║██║  ██║██║██████╔╝██╔╝ ██╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝
+```
+
 ---
 
-## 🤖 About Me
+<div align="center">
+
+### ◈ WHO AM I ◈
+
+</div>
 
 ```python
-class Me:
-    name       = "Your Name"
-    role       = ["Backend Dev", "Agentic AI Engineer"]
-    languages  = ["Python 🐍", "Java ☕", "Kotlin 🎯"]
-    interests  = ["LLM Agents", "Distributed Systems", "Automation"]
-    current    = "Building AI agents that actually do stuff"
-    motto      = "If it can be automated, it should be."
+class Raidx:
+    
+    name        =  "raidx"
+    role        =  ["Backend Engineer", "Agentic AI Developer"]
+    stack       =  ["Python 🐍", "Java ☕"]
+    obsessed_with = [
+        "autonomous agent pipelines 🤖",
+        "tool-use & LLM orchestration 🔧",
+        "clean backend architecture ⚙️",
+        "systems that run themselves 🚀"
+    ]
+    current_vibe = "teaching machines to do my job better than me"
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool 🚀")
+    def __init__(self):
+        self.coffee = float('inf')
+        self.bugs_fixed_today = "yes"
 ```
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### AI / Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Backend & Infra
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🧠 What I'm Into
-
-```
-🤖  Agentic AI      — multi-agent systems, tool-use, autonomous pipelines
-⚙️  Backend Dev     — REST APIs, microservices, clean architecture
-🔄  Automation      — if I do it twice, I automate it
-☕  JVM Stuff        — love a good Kotlin coroutine
-🐍  Python          — where half my brain lives
-```
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117)
+### ◈ STACK ◈
 
 </div>
 
----
-
-## 🚀 Currently
-
-- 🔭 Working on **autonomous AI agent pipelines**
-- 🌱 Exploring **multi-agent frameworks & tool orchestration**
-- 🛠️ Experimenting with **LLM-powered backend services**
-- 💬 Ask me about **Python, Kotlin, Java, or AI agents**
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raj-porwal-329493216])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raaz_porwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=vercel&logoColor=black)](https://raidx.com)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff94)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff94)
+
+**AI / Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff94)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff94)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff94)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff94)
+![Spring](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring-boot&logoColor=00ff94)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff94)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff94)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00ff94)
 
 </div>
 
@@ -103,12 +81,68 @@ class Me:
 
 <div align="center">
 
-```kotlin
-fun main() {
-    println("Thanks for visiting! Star something if you like it ⭐")
-}
+### ◈ GITHUB STATS ◈
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raidx545&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidx545&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff94&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raidx545&theme=dark&hide_border=true&background=0d1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ◈ CURRENTLY ◈
+
+</div>
+
+<div align="center">
+
+| status | what |
+|--------|------|
+| 🔭 building | autonomous multi-agent systems |
+| 🧠 exploring | LLM tool-use & agent orchestration |
+| ⚙️ experimenting | AI-powered backend services |
+| 📖 reading | papers on agentic reasoning |
+
+</div>
+
+---
+
+<div align="center">
+
+### ◈ FIND ME ◈
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff94)](https://linkedin.com/in/raj-porwal-329493216)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff94)](https://twitter.com/raaz_porwal)
+
+</div>
+
+---
+
+<div align="center">
+
+```python
+while alive:
+    eat()
+    sleep()
+    code()
+    deploy_agents()
+    repeat()
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=raidx545&color=00ff94&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff94,100:0f0f0f&height=100&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=raidx545&color=00ff94&style=flat-square&label=visitors)
 
 </div>
