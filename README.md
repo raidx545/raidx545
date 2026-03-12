@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&multiline=false&width=550&height=40&lines=%3E+initializing+raidx.exe...+%E2%9C%93;%3E+loading+agent+pipelines...+%E2%9C%93;%3E+spinning+up+backend+services...+%E2%9C%93;%3E+systems+online.+let%27s+build+something.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&multiline=false&width=550&height=40&lines=%3E+initializing+Raidx.exe...+%E2%9C%93;%3E+loading+agent+pipelines...+%E2%9C%93;%3E+spinning+up+backend+services...+%E2%9C%93;%3E+systems+online.+let%27s+build+something.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
