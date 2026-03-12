@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm [Your Name] 👾
+# Hey, I'm RAIDX 👾
 
 > *I build things that think — and make servers go brrr.*
 
@@ -93,9 +93,9 @@ class Me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=vercel&logoColor=black)](https://yoursite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raj-porwal-329493216])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raaz_porwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=vercel&logoColor=black)](https://raidx.com)
 
 </div>
 
@@ -109,6 +109,6 @@ fun main() {
 }
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff94&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=raidx545&color=00ff94&style=flat-square)
 
 </div>
